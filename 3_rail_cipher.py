@@ -50,6 +50,7 @@ for x in evod[2]:
 for x in list1:
     fulllist.append(x)
 
+for x in list2:
     fulllist.append(x)
 
 for x in list3:
